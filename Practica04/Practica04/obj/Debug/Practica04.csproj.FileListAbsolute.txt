@@ -1,0 +1,5 @@
+/Users/administrator/Projects/Practica04/Practica04/bin/Debug/Practica04.exe
+/Users/administrator/Projects/Practica04/Practica04/bin/Debug/Practica04.pdb
+/Users/administrator/Projects/Practica04/Practica04/obj/Debug/Practica04.csproj.CoreCompileInputs.cache
+/Users/administrator/Projects/Practica04/Practica04/obj/Debug/Practica04.exe
+/Users/administrator/Projects/Practica04/Practica04/obj/Debug/Practica04.pdb
